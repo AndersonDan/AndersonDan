@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá!👋 Sou Anderson Santos de Souza e estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.<br><br>💻 Em paralelo, estou estudando Python(intermediário.)<br><br>Contatos:<br>➡✉  andersonsantosdesouza@hotmail.com<br>➡https://www.linkedin.com/in/anderson-santos-de-souza-444a68289/<br>Fique à vontade para explorar meus repositórios e não hesite em entrar em contato!
+Olá!👋 Sou Anderson Santos de Souza e estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas.<br><br>💻 Em paralelo, estou estudando Python(intermediário.)<br><br>Contatos:<br>➡✉  andersonsantosdesouza@hotmail.com<br>➡https://www.linkedin.com/in/anderson-santos-de-souza-444a68289/<br><br>Fique à vontade para explorar meus repositórios e não hesite em entrar em contato!
 
 
 ## 🌐 Socials:
